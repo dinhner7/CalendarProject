@@ -1,9 +1,3 @@
-/*
-Name: Dinh Huynh
-UID: 117045871
-DirectoryID: dhuynh13
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
